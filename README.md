@@ -6,9 +6,9 @@ This program's functions include calculating the average number of colonies in e
 
 ## How to use this program
 The use of this program is so easy.
-1. open the "ColonyCalculation.exe"
-2. click ... button to select an Excel file (*.xlsx or *.xls) created by **SphereFlash** software. Its default name is "ExportedData.xlsx". We provide an example file in the "examples folder"
-3. according to Part 5.6(b) in standard, the films on test pieces may have varied areas. Remember to fill in the value of film side length (cm)
-4. press "start" button, and the program can generate a new Excel file containing the average colony count of each sample, the actibacterial activity of each sample, the dilution factor, etc.
+1. Download v1.0.0 zip file from "release" and unzip. Open the "ColonyCalculation.exe"
+2. Click ... button to select an Excel file (*.xlsx or *.xls) created by **SphereFlash** software. Its default name is "ExportedData.xlsx". We provide an example file in the "examples folder"
+3. According to Part 5.6(b) in standard, the films on test pieces may have varied areas. Remember to fill in the value of film side length (cm)
+4. Press "start" button, and the program can generate a new Excel file containing the average colony count of each sample, the actibacterial activity of each sample, the dilution factor, etc.
 
 Note: We used the 50-μL-linear mode for bacteria spiral, but the standard required 1 mL. So we multiply the number of viable bacteria by 20 (Part 5.7). And the U-value in generated file means the common logarithm (log10) of viable bacteria.
