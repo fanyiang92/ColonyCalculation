@@ -11,7 +11,7 @@ The plate ID when using **SphereFlash** ==**MUST**== follow this example: YYYYMM
 
 ## How to use this program
 The use of this program is so easy.
-1. Download v1.0.1 zip file from "Releases" and unzip. Open the "ColonyCalculation.exe"
+1. Download all v1.0.1 files (including *.z01, *.z02 and *.zip files) from "Releases" and unzip. Open the "ColonyCalculation.exe"
 2. Click ... button to select an Excel file (*.xlsx or *.xls) created by **SphereFlash** software. Its default name is "ExportedData.xlsx". We provide an example file in the "examples" folder
 3. According to Part 5.6(b) in standard, the films on test pieces may have varied areas. Remember to fill in the value of film side length (cm)
 4. Press "start" button, and the program can generate a new Excel file containing the average colony count of each sample, the actibacterial activity of each sample, the dilution factor, etc.
